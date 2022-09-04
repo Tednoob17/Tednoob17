@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: teddams047@gmail.com '-o 😂' +229 97325663  <br>
 - 😄 Pronouns: 🙂 <br>
 - ⚡ Fun fact: Gaming,Programming and Cyber-Security Skills <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tednoob17)](https://git.io/streak-stats)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 </div>
