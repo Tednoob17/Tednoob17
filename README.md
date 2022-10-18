@@ -19,5 +19,6 @@ Here are some ideas to get you started:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
   ![](https://komarev.com/ghpvc/?username=Tednoob17&color=yellowgreen)
+  [](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tednoob17&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
