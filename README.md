@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   
   ## Github Stats 
   <a href="http://www.github.com/Tednoob17"><img src="https://github-readme-stats.vercel.app/api?username=Tednoob17&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=00FF00&bg_color=ffffff&hide_border=true&show_icons=true" alt="Tednoob17's GitHub stats" /></a>
-  
+  <a href="http://www.github.com/Tednoob17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tednoob17&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 </div>
