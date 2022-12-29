@@ -21,5 +21,8 @@ Here are some ideas to get you started:
   
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
   ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square)
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tednoob17&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ## Github Stats 
+  <a href="http://www.github.com/Tednoob17"><img src="https://github-readme-stats.vercel.app/api?username=Tednoob17&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=00FF00&bg_color=ffffff&hide_border=true&show_icons=true" alt="Tednoob17's GitHub stats" /></a>
+  
 </div>
