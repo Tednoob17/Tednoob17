@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 <img src="https://images.alphacoders.com/103/1038784.jpg"/><br>
 
-- 🔭 I’m currently working on My personnal project in (C,C++,Java) ,CTF player <br>
-- 🌱 I’m currently learning Devops,Git and ..........* <br>
+- 🔭 I’m currently working on My personnal project in (C,Go,Rust,Python,Bash) ,CTF player,Cloud anthusiast  <br>
+- 🌱 I’m currently learning Devops, and Ethical Hacking* <br>
 - 👯 I’m looking to collaborate on all programs <br>
 - 🤔 I’m looking for help with all  <br>
 - 💬 Ask me about mangas and science computer questions. <br>
