@@ -16,19 +16,17 @@ Here are some ideas to get you started:
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links  
   
   <p align="center">
-	<a href="https://twitter.com/Ted_Kouhouenou"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/Tednoob17"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/ted-kouhouenou-48b042239/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a rel="https://mastodon.social/@J3kyll" href=""><img src="imgs/mastodon.svg" alt="Mastodon"></a>
-	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-
+	  
+[![GitHub followers](https://img.shields.io/github/followers/Tednoob17?style=social)](https://www.github.com/Tednoob17)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ted_Kouhouenou?style=social)](https://www.twitter.com/Ted_Kouhouenou)
+  <p/>
   
+<a href="https://www.linkedin.com/in/ted-kouhouenou-48b042239/"><img height="30" src="https://raw.githubusercontent.com/Tednoob17/Tednoob17/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Ted_Kouhouenou"><img height="30" src="https://raw.githubusercontent.com/Tednoob17/Tednoob17/master/twitter.png?raw=true"></a>
   
-  
-  
-- ⚡ Fun fact: Gaming,Programming and Cyber-Security Skills <br>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tednoob17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
   
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
   ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square)
