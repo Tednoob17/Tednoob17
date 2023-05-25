@@ -3,7 +3,7 @@
 <!--
 **Tednoob17/Tednoob17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 <div align='center'>
 
 <img src="https://artfiles.alphacoders.com/608/60877.gif"/><br>
@@ -142,6 +142,5 @@ Here are some ideas to get you started:
 ## Github Profile View 
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
 
-  ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square)
- 
+  ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square) 
 </div>
