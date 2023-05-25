@@ -35,18 +35,22 @@ Here are some ideas to get you started:
 
 	
 <!-- Trophy Badges begin-->
-<p align='center'>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Trophy
+<p align='center'> 
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Trophy 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tednoob17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-	</p>
- <!-- Github Badges end-->
-	
-<!-- Github streak begin-->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+</p>
+ <!-- Github Badges end--> 
+<!-- Github streak begin--> 
+
+## Github Streak 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats) 
   <!-- Github streak end-->
-	
+
+## Github Profile View 
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
+
   ![](https://komarev.com/ghpvc/?username=Tednoob17&style=flat-square)
   
   ## Github Stats 
