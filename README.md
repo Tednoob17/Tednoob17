@@ -6,15 +6,26 @@
 Here are some ideas to get you started:
 <div align='center'>
 
-<img src="https://images.alphacoders.com/103/1038784.jpg"/><br>
+<img src="https://artfiles.alphacoders.com/608/60877.gif"/><br>
 
 - 🔭 I’m currently working on My personnal project in (C,Go,Rust,Python,Bash) ,CTF player,Cloud anthusiast  <br>
-- 🌱 I’m currently learning Devops, and Ethical Hacking* <br>
+- 🌱 I’m currently learning Devops,DevSecOps and Ethical Hacking  <br>
 - 👯 I’m looking to collaborate on all programs <br>
 - 🤔 I’m looking for help with all  <br>
-- 💬 Ask me about mangas and science computer questions. <br>
-- 📫 How to reach me: teddams047@gmail.com '-o 😂' +229 97325663  <br>
-- 😄 Pronouns: 🙂 <br>
+- 💬 Ask me about Jap'Animes and  computer science questions. <br>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links  
+  
+  <p align="center">
+	<a href="https://twitter.com/Ted_Kouhouenou"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/Tednoob17"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/ted-kouhouenou-48b042239/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a rel="https://mastodon.social/@J3kyll" href=""><img src="imgs/mastodon.svg" alt="Mastodon"></a>
+	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+
+  
+  
+  
+  
 - ⚡ Fun fact: Gaming,Programming and Cyber-Security Skills <br>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
