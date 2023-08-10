@@ -132,15 +132,17 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tednoob17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
-<p align='center'>
-[![committers.top badge](https://user-badge.committers.top/benin/Tednoob17.svg)](https://user-badge.committers.top/benin/Tednoob17)
-</p>
+
  <!-- Github Badges end--> 
 <!-- Github streak begin--> 
 
 ## Github Streak 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats) 
   <!-- Github streak end-->
+
+<p align='center'>
+[![committers.top badge](https://user-badge.committers.top/benin/Tednoob17.svg)](https://user-badge.committers.top/benin/Tednoob17)
+</p>
 
 ## Github Profile View 
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
