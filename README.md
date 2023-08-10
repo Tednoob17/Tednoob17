@@ -132,6 +132,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tednoob17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+<p align='center'>
+[![committers.top badge](https://user-badge.committers.top/benin/Tednoob17.svg)](https://user-badge.committers.top/benin/Tednoob17)
+</p>
  <!-- Github Badges end--> 
 <!-- Github streak begin--> 
 
