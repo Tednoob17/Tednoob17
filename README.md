@@ -27,7 +27,7 @@
 <p align='center'>
 	
 <a href="https://www.linkedin.com/in/ted-kouhouenou-48b042239/"><img height="30" src="https://raw.githubusercontent.com/Tednoob17/Tednoob17/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ted_Kouhouenou"><img height="30" src="https://raw.githubusercontent.com/Tednoob17/Tednoob17/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Tedsig42"><img height="30" src="https://raw.githubusercontent.com/Tednoob17/Tednoob17/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/x5rvw7fydmgnl6ee29olitsxg"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>
 	
 </p>
