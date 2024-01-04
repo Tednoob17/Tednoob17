@@ -88,8 +88,6 @@
 
 	
 ## 📖  What I am currently learning / improving on 
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp; 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>&nbsp; 
@@ -142,7 +140,6 @@
 
 ## Rank 
 [![committers.top badge](https://user-badge.committers.top/benin/Tednoob17.svg)](https://user-badge.committers.top/benin/Tednoob17)
-
 
 ## Github Profile View 
   [](https://github-profile-trophy.vercel.app/?username=Tednoob17&margin-w=8)
