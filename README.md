@@ -132,7 +132,7 @@
 <!-- Github streak begin--> 
 
 ## Github Streak 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+ <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tednoob17&theme=onedark&hide_border=true)](https://git.io/streak-stats)-->
   <!-- Github streak end-->
 
 ## Rank 
